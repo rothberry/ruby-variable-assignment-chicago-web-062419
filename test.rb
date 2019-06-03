@@ -1,16 +1,3 @@
-def say_ten_times
-  phrase = "Hello World!"
-  puts phrase
-  puts phrase
-  puts phrase
-  puts phrase
-  puts phrase
-  puts phrase
-  puts phrase
-  puts phrase
-  puts phrase
-  puts phrase
-  puts phrase
+def greeting
+  puts "Hi, Ruby programmer!"
 end
-
-say_ten_times
